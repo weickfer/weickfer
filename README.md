@@ -1,4 +1,26 @@
-### Hi there 👋
+# Hiiii. 
+I'm Weickmam and I'm passionate about developing solutions for other people (I think every developer is like that too 😅)
+
+- 🔭 I am currently studying at Rocketseat's Ignite Bootcamp...
+- 🌱 I’m currently learning about GraphQL, SOLID...
+- 💬 Ask me about ReactJS, Node...
+- 😄 Pronouns: him/his...
+
+- ⚡ Fun fact: I started programming at 9 years old 😅
+
+[![Weickfer GitHub stats](https://github-readme-stats.vercel.app/api?username=weickfer)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div style="gap: 15px;">
+  <a href="https://instagram.com/weickfer" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-4169e1?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:weickmam07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-A69e1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 
 <!--
 **weickfer/weickfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
