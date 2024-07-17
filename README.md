@@ -1,13 +1,9 @@
 <h3>Hiiii. I'm Weickmam 👋🏼</h3>
-<p>I'm passionate about developing solutions for other people (I think every developer is like that too 😅)</p>
+<p>I'm passionate about developing solutions for other people (I think every developer is like that too)</p>
 
-- 🔭 I am currently studying at Rocketseat's Ignite Bootcamp...
-- 🌱 I’m currently learning about GraphQL, SOLID...
-- 💬 Ask me about ReactJS, Node...
-- ⚡ Fun fact: I started programming at 9 years old 😅...
-
-
-[![Weickfer GitHub stats](https://github-readme-stats.vercel.app/api?username=weickfer)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning about GraphQL, SOLID.
+- 💬 Ask me about ReactJS, Node.
+- ⚡ Fun fact: I started programming at 9 years old.
 
 #
 <h3>Where find me: </h1>
